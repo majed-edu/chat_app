@@ -1,0 +1,7 @@
+# Keep generated Flutter platform scaffolding out of GitHub language statistics.
+/web/** linguist-generated
+/linux/flutter/** linguist-generated
+/windows/flutter/** linguist-generated
+/macos/Flutter/** linguist-generated
+**/generated_plugin_registrant.* linguist-generated
+**/generated_plugins.cmake linguist-generated
